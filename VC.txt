@@ -1,0 +1,27 @@
+Version Control - 
+Git- 
+
+terminologies - 
+terminal - cd 
+directory - folder 
+git 
+github
+repositories (repo) - folder
+email, username, password - 
+
+git commands 
+config 
+    1. git config --global user.name 'your github username'
+    2. git config --global user.email 'your github email'
+
+init- initializing git to keep track of changes in this directory(folder)
+add - it gives git access to fies/folders that git add . git add index.html 
+branch
+commit 
+push
+status
+
+
+
+
+
