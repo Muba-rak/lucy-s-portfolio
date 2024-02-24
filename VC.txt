@@ -17,7 +17,7 @@ config
 init- initializing git to keep track of changes in this directory(folder)
 add - it gives git access to fies/folders that git add . git add index.html 
 branch
-commit 
+commit - 
 push
 status
 
