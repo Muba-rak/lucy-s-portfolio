@@ -21,6 +21,11 @@ commit - git commit -m "worked on hero section css"
 push - 
 status
 
+platforms we use in hosting 
+1. vercel 2. netlify 
+1. register- via github 
+
+
 
 
 
